@@ -4,5 +4,3 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&style=flat&link=https://github.com/solbi0802)](https://github.com/solbi0802)
 
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solbi0802&layout=compact&theme=tokyonight)
