@@ -4,3 +4,10 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&style=flat&link=https://github.com/solbi0802)](https://github.com/solbi0802)
 
 <br>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=solbi0802&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/solbi0802"
+  width="600"
+  height="300"
+/>
+</a>
